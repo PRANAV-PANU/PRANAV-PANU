@@ -4,3 +4,7 @@
 - 💞️ I’m looking to collaborate on Any exciting project
 - 📫 How to reach me pranav.juit@gmail.com
 
+
+Technology Used
+
+Angular
